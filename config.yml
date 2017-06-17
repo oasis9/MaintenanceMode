@@ -1,0 +1,5 @@
+enabled: false
+motd:
+  active: "&cDown for maintenance!\n&6We'll be back shortly."
+  inactive: "&7Just another network.."
+kick: "&6We're down for maintenance. Check back later!"

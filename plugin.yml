@@ -1,0 +1,7 @@
+name: MaintenanceMode
+main: co.aeva.maintenancemode.MaintenanceMode
+version: 1
+depend: [ProtocolLib]
+commands:
+  localmaintenancemode:
+    aliases: [localmm, local, lmm]
